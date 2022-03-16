@@ -5,3 +5,5 @@ fuerza = 200
 velocidad = 100
 
 Aceleracion = 100
+
+Muerte Instantana =-1

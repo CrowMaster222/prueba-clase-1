@@ -7,5 +7,5 @@ agilidad = 200
 
 inteligencia = 100
 
-
+Stamina =100
 
