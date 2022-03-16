@@ -4,6 +4,8 @@ fuerza = 200
 
 agilidad = 200
 
-velocidad = 100
 
 inteligencia = 100
+
+
+
