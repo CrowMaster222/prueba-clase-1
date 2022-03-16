@@ -1,0 +1,7 @@
+salud =200
+
+fuerza = 100
+
+agilidad = 100
+
+velocidad = 50
