@@ -1,7 +1,9 @@
 salud =200
 
-fuerza = 100
+fuerza = 200
 
-agilidad = 100
+agilidad = 200
 
-velocidad = 50
+velocidad = 100
+
+inteligencia = 100
